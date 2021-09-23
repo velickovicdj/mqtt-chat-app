@@ -1,2 +1,1 @@
-# mqtt-chat-app
-School project, simple chat application using MQTT protocol.
+A simple chat application with [**Mosquitto**](https://mosquitto.org) open source MQTT broker for implementing MQTT clients.
